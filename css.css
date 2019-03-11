@@ -1,0 +1,37 @@
+header{
+    background: beige;
+    height: 250px;
+}
+article{
+   margin-right: 17.8%;
+   margin-left: 17.8%;
+    }
+   img{ 
+    height:250px; 
+    width:290px; 
+    margin: 2%; 
+}
+#logo{
+    position: absolute; 
+}
+li{
+    border-bottom: solid 1px rgb(150,150,255);
+    display: inline; 
+    margin: 1%
+}
+ul{
+    margin-left: 39.4%
+}
+h1{
+    margin-top: 6%;
+    margin-left: 43%; 
+    position: absolute; 
+    color: rgb(100,255,100)
+}
+span{
+    color: rgb(255, 100, 100)
+}
+    label{
+        color: rgb(100,100,255) 
+    }
+    
